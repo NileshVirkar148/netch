@@ -32,7 +32,7 @@ sources:
     - 'bugprediction'
     
 # Specify the languages you would like to Scan. Default is all Detected
-languages: 'C_SHARP,GO'
+# languages: 'C_SHARP,GO'
 
 
 # Define modules one would like to run or disable. This is enough for Basic Users
